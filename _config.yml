@@ -15,11 +15,11 @@ sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/
 # Authors
 authors:
   fred:
-    name: Fred
-    display_name: Fred
+    name: fred
+    display_name: fred
     gravatar: 6391B84FA8631CDD6A51C6B485F7E27C
     email: fredbarremail@protonmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
+    web: https://www.fredbarre.com/
     twitter: https://twitter.com/wowthemesnet
     description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   john:
