@@ -1,6 +1,6 @@
 # Site
 name: "fred website | tutorial tips tools"
-title: "red website | tutorial tips tools"
+title: "fred website | tutorial tips tools"
 description: " I write easy to follow tips and tutorials.I do synthetic writing while pointing precisely any possible areas of doubt. (also beginner friendly)"
 meta_description: " I write easy to follow tips and tutorials.I do synthetic writing while pointing precisely any possible areas of doubt. (also beginner friendly)"
 logo: 'assets/images/logo.png'
@@ -17,7 +17,7 @@ authors:
   fred:
     name: Fred
     display_name: Fred
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: 6391B84FA8631CDD6A51C6B485F7E27C
     email: fredbarremail@protonmail.com
     web: https://www.wowthemes.net/category/jekyll-themes/
     twitter: https://twitter.com/wowthemesnet
