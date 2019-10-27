@@ -9,7 +9,7 @@ permalink: freelance-mistakes
 canonical_url: 'https://www.fredbarre.com/freelance-mistakes'
 subtitle: My first programming freelance mission, building an android app
 categories: [english, tips]
-author: fred
+author: Fred
 ---
 
 
