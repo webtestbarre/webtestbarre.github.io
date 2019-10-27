@@ -1,14 +1,15 @@
 ---
 layout: post
+author: Fred
 title: bitcoin.com wallet step-by-step guide (screenshots included)
-image: /img/btc/btc.jpg
+image: assets/images/btc/btc.jpg
 altimg: bitcoin-cash
-share-img: /img/btc/btc.jpg
+share-img: assets/images/btc/btc.jpg
 comments: true
 permalink: bitcoin-wallet
 canonical_url: 'https://www.fredbarre.com/bitcoin-wallet'
 subtitle: A detailed beginner friendly guide to bitcoin best wallet in 2019.
-tags: [english, tips, tutorials, bitcoin, guide]
+categories: [english, tips, tutorials, bitcoin, guide]
 redirect_from:
   - /btcwallet
 ---
