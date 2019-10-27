@@ -1,14 +1,15 @@
 ---
 layout: post
 title: 5 freelance mistakes I am learning from
-image: /img/tired.png
+image: assets/images/freelance-mistakes/tired.png
 altimg: tired
-share-img: /img/tired.png
+share-img: assets/images/tired.png
 comments: true
 permalink: freelance-mistakes
 canonical_url: 'https://www.fredbarre.com/freelance-mistakes'
 subtitle: My first programming freelance mission, building an android app
-tags: [english, tips]
+categories: [english, tips]
+author: fred
 ---
 
 
