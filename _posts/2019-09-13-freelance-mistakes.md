@@ -3,7 +3,7 @@ layout: post
 title: 5 freelance mistakes I am learning from
 image: assets/images/freelance-mistakes/tired.png
 altimg: tired
-share-img: assets/images/tired.png
+share-img: assets/images/freelance-mistakes/tired.png
 comments: true
 permalink: freelance-mistakes
 canonical_url: 'https://www.fredbarre.com/freelance-mistakes'
