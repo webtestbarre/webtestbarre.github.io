@@ -14,9 +14,9 @@ sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/
 
 # Authors
 authors:
-  fred:
-    name: fred
-    display_name: fred
+  Fred:
+    name: Fred
+    display_name: Fred
     gravatar: 6391b84fa8631cdd6a51c6b485f7e27c
     email: fredbarremail@protonmail.com
     web: https://www.fredbarre.com/
