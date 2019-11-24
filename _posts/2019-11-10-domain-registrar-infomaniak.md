@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: How did I register my domain name with infomaniak? (coming soon!)
 image: assets/images/infomaniak/infomaniak.png
 share-img: assets/images/infomaniak/infomaniak.png
