@@ -15,14 +15,14 @@ author: Fred
 
 1st mistake
 
-![schoolLearning](https://www.fredbarre.com/img/school.jpg)
+![schoolLearning](assets/images/freelance-mistakes/school.jpg)
 
 I learned programming at school but it gave me bad habits.When you are learning for paper exams, you are trying to memorise as much as possible because you are not allowed to use google during the exam...
 And you will often start work from the scratch.In real situations you can copy and paste your past work to save a lot of time. You need to learn to use the tools at your disposal to do the work like google or word.Even if you are not stuck its better to do a google search to have a huge speed boost.
 
 2nd mistake
 
-![client](https://www.fredbarre.com/img/empty.png)
+![client](assets/images/freelance-mistakes/empty.png)
 
 My 1st client wasn't ready to put the price, and it put the burden on me to make it work.And tried to work fast.I did it anyway for 1 euro per hour for two months.
 It was a valuable learning experience but that might have been too much.
