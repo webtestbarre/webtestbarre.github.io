@@ -42,9 +42,9 @@ Make the back-end more flexible to adapt more easily to others themes.
 
 Here is a few screenshots for winforms graphical ui.
 
-![app](assets/images/Csharp-easyjekyll-project/app1.jpg)
+![app](assets/images/Csharp-easyjekyll-project/app1.JPG)
 
-![app2](assets/images/Csharp-easyjekyll-project/app2.jpg)
+![app2](assets/images/Csharp-easyjekyll-project/app2.JPG)
 
 
 
