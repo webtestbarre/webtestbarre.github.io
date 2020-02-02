@@ -2,9 +2,9 @@
 layout: post
 author: Fred
 title: Csharp easyjekyll project (portfolio)
-image: assets/images/Csharp-easyjekyll-project/easyjekyll.jpg
+image: assets/images/Csharp-easyjekyll-project/easyjekyll.png
 altimg: easyjekyll
-share-img: assets/images/Csharp-easyjekyll-project/easyjekyll.jpg
+share-img: assets/images/Csharp-easyjekyll-project/easyjekyll.png
 comments: true
 permalink: Csharp-easyjekyll-project
 canonical_url: 'https://www.fredbarre.com/Csharp-easyjekyll-project'
