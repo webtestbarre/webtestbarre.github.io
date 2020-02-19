@@ -12,7 +12,7 @@ subtitle: A detailed beginner friendly guide to bitcoin best wallet in 2019.
 categories: [english, tips, tutorials, bitcoin, guide]
 redirect_from:
   - /btcwallet
-featured: true
+featured: false
 ---
 
 Items needed for this tutorial:
