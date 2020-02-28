@@ -1,8 +1,8 @@
 # Site
 name: "fred website | tutorial tips tools"
 title: "fred website | tutorial tips tools"
-description: " I write easy to follow tips and tutorials.I do synthetic writing while pointing precisely any possible areas of doubt. (also beginner friendly)"
-meta_description: " I write easy to follow tips and tutorials.I do synthetic writing while pointing precisely any possible areas of doubt. (also beginner friendly)"
+description: " I write easy to follow tips and tutorials walkthrough."
+meta_description: "tips tuto tools"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
