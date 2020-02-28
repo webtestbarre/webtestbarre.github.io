@@ -1,8 +1,8 @@
 # Site
-name: "fred website | tutorial tips tools"
-title: "fred website | tutorial tips tools"
-description: " I write easy to follow tips and tutorials walkthrough."
-meta_description: "tips tuto tools"
+name: "fred siteweb | tutoriels astuces outils et autres"
+title: "fred siteweb | tutoriels astuces outils et autres"
+description: " Tout ce qui me passe par la tete"
+meta_description: "tips tuto tools astuces tutoriels outils blog"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
